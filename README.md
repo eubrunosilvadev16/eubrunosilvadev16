@@ -57,7 +57,14 @@ Olá! Sou o Bruno Silva, um analista de dados apaixonado por transformar dados e
     style="padding-right: 10px;" 
     src="https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000" 
 />
-
+<img 
+    align="left" 
+    alt="Power BI" 
+    title="Power BI"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://img.icons8.com/?size=100&id=UECmBSgBOvPT&format=png&color=000000" 
+/>
 
 <br/>
 <br/>
