@@ -54,7 +54,7 @@ Olá! Sou o Bruno Silva, um analista de dados apaixonado por transformar dados e
     title="SQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://github.com/user-attachments/assets/4e565c55-beab-4cfe-8f8d-42fd2696d9ba" 
+    src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000" 
 />
 <img 
     align="left" 
@@ -71,22 +71,18 @@ Olá! Sou o Bruno Silva, um analista de dados apaixonado por transformar dados e
 
 ### 📊 Estatísticas
 
-<p>
+<p align="left">
   <img 
-    align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
+    style="float: left; margin-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=eubrunosilvadev16&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=eubrunosilvadev16&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img 
+    alt="Top Langs" 
+    height="200" 
+    style="float: left;" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=eubrunosilvadev16&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
